@@ -3,7 +3,7 @@
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Haslima portfolio</title>
+<title>Hasna portfolio</title>
 <style>
 img {
   border-radius: 50%;
@@ -20,22 +20,22 @@ img {
 <table border="0" cellpadding="10" cellspacing="0" width="100%" align="center">
 <tbody><tr>
 <td>
-<img height="150" width="150" src="./Haslima RESUME_files/12.png" alt="Avatar" style="width:100px">
+<img height="150" width="150" src="./Hasna RESUME_files/12.png" alt="Avatar" style="width:100px">
 
 </td>
 
 <td>
 <font face="Comic sans MS" size="6" color="red">
 
-<u><b>Haslima Farveen H</b></u><br>
+<u><b>Hasna Parveen H</b></u><br>
 
 </font>
 
 <font face="Comic sans MS" size="4" color="red">
 
-Mail Id: dcca22haslima@gmail.com<br>
+Mail Id: dcca22hasnaparveen@gmail.com<br>
 
-Phone No: 9342215136
+Phone No: 7339160288
 
 </font>
 
@@ -169,11 +169,11 @@ To build career in a growing organization, where I get the opportunities to prov
 </td>
 <td width="50%">
 <font face="Times New Roman" size="6" color="black">
-: J.Haja Najibudeen<br>
-: H.Tajnisha<br>
-: 14.07.2004<br>
+: H.Abdhul Bari<br>
+: A.Sumaiya Begum<br>
+: 28.08.2004<br>
 : Female  <br>
-: unmarried<br>
+: married<br>
 : Tamil &amp; English<br>
 : Indian
 </font>
